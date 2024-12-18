@@ -1,0 +1,7 @@
+﻿  Motor.cpp
+  MotorController.cpp
+C:\Users\Tobias\Documents\Repos\Interpolation-Stepper-Driver\MotorController\MotorController\Motor.cpp(32,40): warning C4244: "Argument": Konvertierung von "double" in "long", möglicher Datenverlust
+  PositionCalculator.cpp
+  Waypoint.cpp
+  Code wird generiert...
+  MotorController.vcxproj -> C:\Users\Tobias\Documents\Repos\Interpolation-Stepper-Driver\MotorController\x64\Debug\MotorController.lib

@@ -1,0 +1,2 @@
+C:\Users\Tobias\Desktop\ESP32Driver\MotorController\GoogleTests\x64\Debug\GoogleTests.vcxproj.CopyComplete
+C:\Users\Tobias\Documents\Repos\Interpolation-Stepper-Driver\MotorController\GoogleTests\x64\Debug\GoogleTests.vcxproj.CopyComplete

@@ -1,0 +1,2 @@
+﻿test.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: void __cdecl MotorController::Run(unsigned long)" (?Run@MotorController@@QEAAXK@Z)" in Funktion ""private: virtual void __cdecl MotorControllerTest_RunMotorController_Test::TestBody(void)" (?TestBody@MotorControllerTest_RunMotorController_Test@@EEAAXXZ)".
+C:\Users\Tobias\Desktop\ESP32Driver\MotorController\x64\Debug\MotorControllerTest.exe : fatal error LNK1120: 1 nicht aufgelöste Externe
